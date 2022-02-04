@@ -3,7 +3,7 @@
 - Each ZIP file is a compressed bundle of all files on the CD. After downloading in Windows, right-click on the file and select "Extract All" to uncompress the zip file to access the files and viewer.
 - Each ISO file is a snapshot of the entire CD that can be mounted like a CD. After downloading in Windows, double-click the ISO file to mount it. Then you should be able to access the files and viewer, as if it was a CD.
 - Most of the CDs contain viewers made for Windows, some for Mac.
-- If you have a problem accessing the files, please let Trenton know.
+- If you have a problem accessing the files, please let me know.
 
 | Date | Facility | Description | Files |
 | ----- | ----- | ----- | ----- |
