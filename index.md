@@ -2,7 +2,7 @@
 Trenton's imaging.
 
 - Each entry below is the files on an imaging CD. Each CD's files are available in either a ZIP bundle or an ISO bundle.
-- Click the ZIP or ISO link to download that file.
+- Click the ZIP or ISO link to download that file. Click the Report link to download the report.
 - Each ZIP file is a compressed bundle of all files on the CD. After downloading in Windows, right-click on the file and select "Extract All" to uncompress the zip file to access the files and viewer.
 - Each ISO file is a snapshot of the entire CD that can be mounted like a CD. After downloading in Windows, double-click the ISO file to mount it. Then you should be able to access the files and viewer, as if it was a CD.
 - Most of the CDs contain viewers made for Windows, some for Mac.
