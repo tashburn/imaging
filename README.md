@@ -1,4 +1,4 @@
 
 Testing
 
-[Google](www.google.com)
+[Google](http://www.google.com)
