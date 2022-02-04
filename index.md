@@ -5,11 +5,11 @@
 - Most of the CDs contain viewers made for Windows, some for Mac.
 - If you have a problem accessing the files, please let Trenton know.
 
-| Date | Facility | Description | a | b | c | d |
+| Date | Facility | Description |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 2020-03-06 | Mitchell Moret Chiropractor | Neck X-Rays | [ZIP]() | [ISO]() | | |
 | 2020-04-28 | Sally Jobe | MR MRI BRAIN & BRAIN-STEM WO CONTRAST, CERVICAL SPINE WO CONSTRAST | [ZIP]() | [ISO]() | | |
-| 2021-02-01 | Health Images | CT Sinuses | [ZIP]() | [ISO]() | | |
+| 2021-02-01 | Health Images | CT Sinuses | [ZIP]() | [ISO]() | [Report](https://www.dropbox.com/s/gdak4muv32kjgkz/2021-02-01%20Health%20Images%20-%20CT%20Sinuses%20-%20Report.pdf?dl=1) | |
 | 2021-02-24 | Presb. St Luke's | Disk 1: CTA HEAD NECK WWO CT | [ZIP]() | [ISO]() | | |
 | 2021-02-24 | Presb. St Luke's | Disk 2: CT MAXILLOFASCIAL SINUSES WO CT | [ZIP]() | [ISO]() | | |
 | 2021-02-24 | Presb. St Luke's | Disk 3: CT MAXILLOFASCIAL SINUSES WO CT | [ZIP]() | [ISO]() | | |
