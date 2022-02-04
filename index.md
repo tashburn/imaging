@@ -20,7 +20,7 @@
 | 2021-09-30 | Park Meadows Imaging | X-RAY CERVICAL 2-3 VIEWS | [ZIP]() | [ISO]() | |
 | 2021-10-04 | Park Meadows Imaging | MR Cervical Spine WO Contrast | [ZIP]() | [ISO]() | |
 | 2021-10-27 | Upright MRI of Colorado | Cranio-cervical junction, brain, T-spine and L-spine | [ZIP]() | [ISO]() | |
+| 2021-11-16 | Katz Chiropractic | [DMX (Digital Motion X-Ray)](https://www.dropbox.com/s/748ie07k6s6sqmt/Ashburn%2C%20Trent%20DMX.avi?dl=0) |  | | | Report |
 | 2021-11-19 | Health Images |  MRI Lumbar Spine W WO | [ZIP]() | [ISO]() | |
 | 2021-12-13 | Swedish Medical Center |  CINE MR MRI BRAIN WWO | [ZIP]() | [ISO]() | |
 | 2021-12-22 | UC Health | MR total spine without contrast | [ZIP]() | [ISO]() | [Report]() |
-| 2021-11-16 | Katz Chiropractic | [DMX (Digital Motion X-Ray)](https://www.dropbox.com/s/748ie07k6s6sqmt/Ashburn%2C%20Trent%20DMX.avi?dl=0) |  | | | Report |
