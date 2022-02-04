@@ -6,7 +6,7 @@
 - If you have a problem accessing the files, please let Trenton know.
 
 | Date | Facility | Description |  |  |  |
-| ----- | ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 2020-03-06 | Mitchell Moret Chiropractor | Neck X-Rays | [ZIP]() | [ISO]() | | |
 | 2020-04-28 | Sally Jobe | MR MRI BRAIN & BRAIN-STEM WO CONTRAST, CERVICAL SPINE WO CONSTRAST | [ZIP]() | [ISO]() | |
 | 2021-02-01 | Health Images | CT Sinuses | [ZIP]() | [ISO]() | |
