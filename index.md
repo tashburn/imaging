@@ -1,7 +1,4 @@
-- Each entry below is the files on an imaging CD. Each CD's files are available in either a ZIP bundle or an ISO bundle.
-- Click the ZIP or ISO link to download that file. Click the Report link to download the report.
-- Each ZIP file is a compressed bundle of all files on the CD. After downloading in Windows, right-click on the file and select "Extract All" to uncompress the zip file to access the files and viewer.
-- Each ISO file is a snapshot of the entire CD that can be mounted like a CD. After downloading in Windows, double-click the ISO file to mount it. Then you should be able to access the files and viewer, as if it was a CD.
+- Each ISO file is a snapshot of the entire imaging CD that can be mounted like a CD. After downloading in Windows, double-click the ISO file to mount it. Then you should be able to access the files and viewer, as if it was a CD.
 - Most of the CDs contain viewers made for Windows, some for Mac.
 - If you have a problem accessing the files, please let me know.
 
@@ -32,3 +29,4 @@
 | 2023-01-30 | Health Images | MRI Thoracic Spine WO | [ISO](https://www.dropbox.com/s/1at4hgco3h8367u/2023-01-30%20Health%20Images%20-%20MRI%20Thoracic%20Spine%20WO.iso?dl=1), [Report](https://www.dropbox.com/s/3l6fb1xd3bs0r87/2023-01-30%20Health%20Images%20-%20MRI%20Thoracic%20Spine%20WO%20Report.pdf?dl=1) |
 | 2023-03-02 | UCHealth | MRI Brain W WO | [ISO](https://www.dropbox.com/s/q7smvwcp0tuctn8/2023-03-02%20UCHealth%20-%20MRI%20Brain%20W%20WO.iso?dl=1), [Report](https://www.dropbox.com/s/q6minpkddjt32nh/2023-03-02%20UCHealth%20-%20MRI%20Brain%20W%20WO.pdf?dl=1) |
 | 2023-03-02 | UCHealth | MRI Total Spine WO | [ISO](https://www.dropbox.com/s/zamx02yz15f18b0/2023-03-02%20UCHealth%20-%20MRI%20Total%20Spine.iso?dl=1), [Report](https://www.dropbox.com/s/n0o4q6vb70056x4/2023-03-02%20UCHealth%20-%20MRI%20Total%20Spine%20Report.pdf?dl=1) |
+| 2023-05-05 | Health Images | CT Abdomen & Thoracic Spine W | [ISO](https://www.dropbox.com/s/3feopfsd5ca4a1c/2023-05-05%20Health%20Images%20-%20CT%20Abdomen%20%26%20Thoracic%20Spine%20W.iso?dl=1) [Report](https://www.dropbox.com/s/iy4comc15vro4rw/2023-05-05%20Health%20Images%20-%20CT%20Abdomen%20%26%20Thoracic%20Spine%20W.pdf?dl=1) |
