@@ -1,4 +1,5 @@
-- Each ISO file is a snapshot of the entire imaging CD that can be mounted like a CD. After downloading in Windows, double-click the ISO file to mount it. Then you should be able to access the files and viewer, as if it was a CD.
+- Most recent at the bottom!
+- Each ISO file is a snapshot of an imaging CD. It can be mounted like a CD on Windows by double-clicking the file.
 - Most of the CDs contain viewers made for Windows, some for Mac.
 - If you have a problem accessing the files, please let me know.
 
