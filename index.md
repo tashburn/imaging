@@ -1,6 +1,6 @@
 - Most recent at the top!
 - Each "CD" link downloads a snapshot of an imaging CD. It can be mounted like a CD on Windows by double-clicking the file.
-- Most of the CDs contain viewers made for Windows.
+- Most of the CDs contain imaging viewer applications made for Windows.
 - If you have a problem accessing the files, please let me know.
 
 | Date | Facility | Description | Files |
