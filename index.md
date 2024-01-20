@@ -5,60 +5,31 @@
 
 | Date | Facility | Description | Files |
 | ----- | ----- | ----- | ----- |
-
 | 2023-10-24 | Littleton Adventist | Venogram by Dr Spencer | [PP Note](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-10-24%20Littleon%20Adventist%20-%20Spencer%20Post-Procedure%20Note.pdf), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-10-24%20Littleon%20Adventist%20-%20Spencer%20Report.pdf) |
-
 | 2023-07-20 | Health Images | Ultrasound Upper Extremity IJV | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-07-20%20Health%20Images%20-%20Ultrasound%20Upper%20Extremity%20IJV.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-07-20%20Health%20Images%20-%20Ultrasound%20Upper%20Extremity%20IJV%20Results.jpg) |
-
 | 2023-06-02 | UCHealth | CT Dynamic Myelogram & MR Total Spine CSF Leak WO | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-06-02%20UCHealth%20-%20CT%20Dynamic%20Myelogram%20%26%20MR%20Total%20Spine%20CSF%20Leak%20WO.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-06-02%20UCHealth%20-%20CT%20Dynamic%20Myelogram%20%26%20MR%20Total%20Spine%20CSF%20Leak%20WO%20Report.pdf) |
-
 | 2023-05-18 | Health Images | MRI Cervical & Lumbar Spine W WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-05-18%20Health%20Images%20-%20MRI%20CERVICAL%20&%20LUMBAR%20SPINE%20W%20:%20WO%20.iso), [Cervical Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-05-18%20Health%20Images%20-%20MRI%20CERVICAL%20SPINE%20W%20WO%20Report.pdf), [Lumbar Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-05-18%20Health%20Images%20-%20MRI%20LUMBAR%20SPINE%20W%20WO%20Report.pdf) |
-
-| 2023-05-05 | Health Images | CT Abdomen & Thoracic Spine W | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-05-05%20Health%20Images%20-%20CT%20Abdomen%20&%20Thoracic%20Spine%20W.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-05-05%20Health%20Images%20-%20CT%20Abdomen%20&%20Thoracic%20Spine%20W.pdf) |
-
 | 2023-03-02 | UCHealth | MRI Total Spine WO | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-03-02%20UCHealth%20-%20MRI%20Total%20Spine.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-03-02%20UCHealth%20-%20MRI%20Total%20Spine%20Report.pdf) |
-
 | 2023-03-02 | UCHealth | MRI Brain W WO | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-03-02%20UCHealth%20-%20MRI%20Brain%20W%20WO.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-03-02%20UCHealth%20-%20MRI%20Brain%20W%20WO.pdf) |
-
 | 2023-01-30 | Health Images | MRI Thoracic Spine WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-01-30%20Health%20Images%20-%20MRI%20Thoracic%20Spine%20WO.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-01-30%20Health%20Images%20-%20MRI%20Thoracic%20Spine%20WO%20Report.pdf) |
-
 | 2023-01-27 | Dr Kaminsky | Head/Neck/Chest Venogram/Angiogram | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-01-27%20Dr%20Kaminsky%20-%20Venogram%20Angiogram.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2023-01-27%20Dr%20Kaminsky%20-%20Venogram%20Angiogram%20Report.pdf) |
-
 | 2022-12-29 | Health Images | CT & XR Cervical Spine WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-12-29%20Health%20Images%20-%20CT%20&%20XR%20Cervical%20Spine.iso), [CT Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-12-29%20Health%20Images%20-%20CT%20Cervical%20Spine%20Report.pdf), [XR Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-12-29%20Health%20Images%20-%20XR%20Cervical%20Spine%20Report.pdf) |
-
 | 2022-12-20 | Health Images | MRI Lumbar Spine W/WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-12-20%20Health%20Images%20-%20MRI%20Lumbar%20Spine%20W%20WO.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-12-20%20Health%20Images%20-%20MRI%20Lumbar%20Spine%20W%20WO%20report.pdf) |
-
 | 2022-11-10 | Opensided MRI | MRI L Spine WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-11-10%20Opensided%20MRI%20-%20L%20Spine%20WO.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-11-10%20Opensided%20MRI%20-%20L%20Spine%20WO.pdf) |
-
 | 2022-09-09 | Katz Chiropractic | DMX (Digital Motion X-Ray) | [DMX](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-09-09%20Katz%20Chiropractic%20-%20DMX2.avi), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-09-09%20Katz%20Chiropractic%20-%20DMX2%20Report.pdf) |
-
 | 2022-03-17 | Dr Rosa | MRI C-Spine, Head, Upright | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-03-17%20Dr%20Rosa%20-%20MRI%20C-Spine,%20Head,%20Upright.iso), [MRI Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2022-03-17%20Dr%20Rosa%20-%20MRI.%20Report.docx) |
-
 | 2021-12-22 | UC Health | MR total spine without contrast | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-12-22%20UC%20Health%20-%20MR%20total%20spine%20without%20contrast.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-12-22%20UC%20Health%20-%20MR%20total%20spine%20without%20contrast%20-%20report.pdf) |
-
 | 2021-12-13 | Swedish Medical Center |  Cine MR MRI Brain WWO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-12-13%20Swedish%20Medical%20Center%20-%20CINE%20MR%20MRI%20BRAIN%20WWO.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-12-13%20Swedish%20Medical%20Center%20-%20CINE%20MR%20MRI%20BRAIN%20WWO.pdf) |
-
 | 2021-11-19 | Health Images |  MRI Lumbar Spine W WO | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-19%20Health%20Images%20-%20MRI%20Lumbar%20Spine%20W%20WO.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-19%20Health%20Images%20-%20MRI%20Lumbar%20Spine%20W%20WO.pdf) |
-
 | 2021-11-16 | Katz Chiropractic | DMX (Digital Motion X-Ray) | [DMX](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-16%20Katz%20Chirpractic%20-%20DMX.avi), [RIR Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-16%20Katz%20Chirpractic%20-%20Radiographic%20Impression%20Report.pdf), [ROF Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-16%20Katz%20Chirpractic%20-%20Report%20of%20Findings.pdf), [STS Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-11-16%20Katz%20Chirpractic%20-%20Summary%20Travel%20Sheet.pdf) |
-
 | 2021-10-27 | Upright MRI of Colorado | Cranio-cervical junction, brain, T-spine and L-spine | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-27%20Upright%20MRI%20of%20Colorado%20-%20CCJ,%20Brain,%20T-spine%20and%20L-spine.iso), [Brain Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-27%20Upright%20MRI%20-%20BRAIN.pdf), [CCJ Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-27%20Upright%20MRI%20-%20CCJ.pdf), [L-Spine Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-27%20Upright%20MRI%20-%20LSPINE.pdf), [T-Spine Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-27%20Upright%20MRI%20-%20TSPINE.pdf) |
-
 | 2021-10-04 | Park Meadows Imaging | MR Cervical Spine WO Contrast |  [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-04%20Park%20Meadows%20Imaging%20-%20MR%20Cervical%20Spine%20WO%20Contrast.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-10-04%20Park%20Meadows%20Imaging%20-%20MR%20Cervical%20Spine%20WO%20Contrast.pdf) |
-
 | 2021-09-30 | Park Meadows Imaging | X-Ray Cervical 2-3 Views | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-09-30%20Park%20Meadows%20Imaging%20-%20X-RAY%20CERVICAL%202-3%20VIEWS.iso), (No Report) |
-
 | 2021-07-16 | UC Health | MR Head^Routine Brain Stroke | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-07-16%20UC%20Health%20-%20MR%20HEAD^ROUTINE%20BRAIN%20STROKE.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-07-16%20UC%20Health%20-%20MR%20HEAD^ROUTINE%20BRAIN%20STROKE.pdf) |
-
 | 2021-03-24 | Sally Jobe | MR MRA Head WO Contrast | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-03-24%20Sally%20Jobe%20-%20MR%20MRA%20HEAD%20WO%20CONTRAST.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-03-24%20Sally%20Jobe%20-%20MR%20MRA%20HEAD%20WO%20CONTRAST.pdf) |
-
 | 2021-02-24 | Presb. St Luke's | Disk 1: CTA Head Neck WWO CT | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-24%20PSL%20-%20Disk%201%20-%20CTA%20HEAD%20NECK%20WWO%20CT.iso) |
-
 | 2021-02-24 | Presb. St Luke's | Disk 2: CT Maxillofascial Sinuses WO CT | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-24%20PSL%20-%20Disk%202%20-%20CT%20MAXILLOFASCIAL%20SINUSES%20WO%20CT.iso) |
-
 | 2021-02-24 | Presb. St Luke's | Disk 3: CT Maxillofascial Sinuses WO CT | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-24%20PSL%20-%20Disk%203%20-%20CT%20MAXILLOFASCIAL%20SINUSES%20WO%20CT.iso) |
-
 | 2021-02-24 | Presb. St Luke's | Disk 4: CT Maxillofascial Sinuses WO CT |  [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-24%20PSL%20-%20Disk%204%20-%20CT%20MAXILLOFASCIAL%20SINUSES%20WO%20CT.iso) |
-
 | 2021-02-01 | Health Images | CT Sinuses | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-01%20Health%20Images%20-%20CT%20Sinuses.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2021-02-01%20Health%20Images%20-%20CT%20Sinuses%20-%20Report.pdf) |
 | 2020-04-28 | Sally Jobe | MR MRI Brain, Brain-stem, Cervical Spine WO Contrast | [CD](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2020-04-28%20Sally%20Jobe%20-%20MR%20MRI%20BRAIN%20&%20BRAIN-STEM%20WO%20CONTRAST,%20CERVICAL%20SPINE%20WO%20CONSTRAST.iso), [Report](https://pub-47b4fe43e32540f39efc5af24ade8af7.r2.dev/2020-04-28%20Sally%20Jobe%20-%20MR%20MRI%20BRAIN%20&%20BRAIN-STEM%20WO%20CONTRAST,%20CERVICAL%20SPINE%20WO%20CONSTRAST%20-%20Report.pdf) |
