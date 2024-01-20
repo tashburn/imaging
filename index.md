@@ -5,7 +5,9 @@
 
 | Date | Facility | Description | Files |
 | ----- | ----- | ----- | ----- |
+
 | 2023-10-24 | Littleton Adventist | Venogram by Dr Spencer | [Report 1](https://2017e67082c6575cdaf41f64deaf333a.r2.cloudflarestorage.com/medical/2023-10-24%20Littleon%20Adventist%20-%20Spencer%20Post-Procedure%20Note.pdf), [Report 2](https://2017e67082c6575cdaf41f64deaf333a.r2.cloudflarestorage.com/medical/2023-10-24%20Littleon%20Adventist%20-%20Spencer%20Report.pdf) |
+
 | 2023-07-20 | Health Images | Ultrasound Upper Extremity IJV | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-07-20%20Health%20Images%20-%20Ultrasound%20Upper%20Extremity%20IJV.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-07-20%20Health%20Images%20-%20Ultrasound%20Upper%20Extremity%20IJV%20Results.jpg) |
 | 2023-06-02 | UCHealth | CT Dynamic Myelogram & MR Total Spine CSF Leak WO | [CD](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-06-02%20UCHealth%20-%20CT%20Dynamic%20Myelogram%20%26%20MR%20Total%20Spine%20CSF%20Leak%20WO.iso), [Report](https://pub-e1ff17b366054aa69805a58c62f790fd.r2.dev/2023-06-02%20UCHealth%20-%20CT%20Dynamic%20Myelogram%20%26%20MR%20Total%20Spine%20CSF%20Leak%20WO%20Report.pdf) |
 | 2023-05-18 | Health Images | MRI Cervical & Lumbar Spine W WO | [CD](https://6ec068ac0b2ec4d688b489ccbf62a0bb.r2.cloudflarestorage.com/medical/2023-05-18%20Health%20Images%20-%20MRI%20CERVICAL%20%26%20LUMBAR%20SPINE%20W%20%3A%20WO%20.iso), [Cervical Report](https://6ec068ac0b2ec4d688b489ccbf62a0bb.r2.cloudflarestorage.com/medical/2023-05-18%20Health%20Images%20-%20MRI%20CERVICAL%20SPINE%20W%20WO%20Report.pdf), [Lumbar Report](https://6ec068ac0b2ec4d688b489ccbf62a0bb.r2.cloudflarestorage.com/medical/2023-05-18%20Health%20Images%20-%20MRI%20LUMBAR%20SPINE%20W%20WO%20Report.pdf) |
